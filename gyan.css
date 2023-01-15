@@ -1,0 +1,18 @@
+
+body{
+    background: linear-gradient(134deg,orange,rgb(0, 191, 255),rgb(230, 0, 255));;
+}
+header{
+    color: maroon; 
+    font-family: cursive;
+    background: linear-gradient(120deg,rgb(0, 102, 255),rgb(255, 179, 0),rgb(255, 72, 0));
+}
+h3{
+    font-family: curisve;
+    color: white;
+    border-style: solid;
+    background-color:maroon;
+}
+ul{
+    color:maroon;
+}
